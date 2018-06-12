@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 public class Temperatura extends JFrame implements ActionListener {
 
-    //Deklaracja zmiennych  //
+    //Deklaracja zmiennych  ////
     private JLabel lCelsius, lFarenheit;
     private JTextField tCelsius, tFarenheit;
     private JButton bKonwetuj;
